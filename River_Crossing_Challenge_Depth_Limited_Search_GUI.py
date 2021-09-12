@@ -1,8 +1,3 @@
-# Project Entropy, done by Alireza Rashidi Laleh
-# one of the river crossing puzzles solved by depth-limited search algorithm
-# python 3.7.8
-
-
 import numpy as np
 import itertools
 from tkinter import *
